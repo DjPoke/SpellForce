@@ -7,8 +7,8 @@ To play Spell force, you have to use the player, compiled for Windows, Linux and
 
 To change settings, push escape key in game, to access the menu.
 
-
 ![Screenshot](screenshot.jpg)
 
 Enjoy
+
 DjPoke
