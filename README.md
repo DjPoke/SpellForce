@@ -1,5 +1,5 @@
 # SpellForce
-Spell Force is a shoot'em.
+Spell Force is a shoot'em up.
 
 You are a wizard trying to clear zombies an other creatures.
 
